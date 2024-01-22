@@ -1,3 +1,4 @@
+import io
 import re, logging
 from os import environ
 from Script import script
